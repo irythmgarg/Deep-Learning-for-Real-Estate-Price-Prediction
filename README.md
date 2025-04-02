@@ -2,6 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/a29fef63-6298-489b-924b-326922a0e4ce)
 
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/deep-learning-for-real-estate-price-prediction?source=search)
 
 Real Estate Price Prediction Using Deep Learning: Theory and Approach
 Real estate price prediction is a common regression problem where the goal is to predict property prices based on various features such as location, size, number of rooms, and more. Deep learning provides an advanced framework for such predictions, utilizing neural networks to model complex patterns and relationships in the data.
